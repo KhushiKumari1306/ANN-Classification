@@ -1,8 +1,8 @@
 streamlit==1.32.0
-scikit-learn==1.4.2
-pandas==2.2.2
-numpy==1.26.4
-matplotlib==3.8.4
 keras==3.3.3
 h5py==3.11.0
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.4.2
 protobuf==4.25.3
+
